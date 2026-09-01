@@ -1,0 +1,6 @@
+{
+    "name": "Surface FCM",
+    "short_name": "surface-fcm",
+    "start_url": "/",
+    "gcm_sender_id": "910146006379"
+  }

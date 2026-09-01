@@ -1,0 +1,54 @@
+.content {
+    p {
+        font-size: 16px!important;
+        margin-bottom: 40px!important;
+    }
+    img {
+        width: 100%!important;
+        max-width: 100%!important;
+        height: auto!important;
+    }
+    .aligncenter {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 40px;
+    }
+    .alignleft {
+        float: left;
+        margin: 0.5em 1em 0.5em 0;
+    }
+    .alignright {
+        float: right;
+        margin: 0.5em 0 0.5em 1em;
+    }
+    .alignnone {
+        display: block;
+        margin-bottom: 40px;
+    }
+}
+
+.rotate180 {
+    -webkit-transform:rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.img-ship {
+    width: 50px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.survey-btn {
+    margin-top: 60px;
+}
+
+#blog-detail-page .content b, #blog-detail-page .content strong {
+    font-family: "Gotham Medium";
+    font-weight: normal;
+}
